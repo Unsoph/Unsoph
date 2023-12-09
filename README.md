@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unsoph(Shreyas).
+- 👋 Hi, I’m @Unsoph (Shreyas).
 - 👀 I’m interested in machine learning as well as web development with a keen interest in AI.
 - 🌱 I’m currently learning web development and some content writing-based skills.
 - 💞️ I’m looking to collaborate on (still thinking).
